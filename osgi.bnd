@@ -1,0 +1,6 @@
+#-----------------------------------------------------------------
+# Use this file to add customized Bnd instructions for the bundle
+#-----------------------------------------------------------------
+Import-Package: *;resolution:=optional
+Export-Package: freemarker.*;version="2.3.18"
+Include-Resource: {maven-resources}
